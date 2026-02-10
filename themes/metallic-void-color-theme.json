@@ -70,7 +70,22 @@
 
         "scrollbarSlider.background": "#bf616a20",
         "scrollbarSlider.hoverBackground": "#bf616a80",
-        "scrollbarSlider.activeBackground": "#bf616a"
+        "scrollbarSlider.activeBackground": "#bf616a",
+
+        "gitDecoration.modifiedResourceForeground": "#b48ead",
+        "gitDecoration.addedResourceForeground": "#88bcbb",
+        "gitDecoration.deletedResourceForeground": "#bf616a",
+        "gitDecoration.untrackedResourceForeground": "#88bcbb",
+        "gitDecoration.ignoredResourceForeground": "#4c566a",
+        "gitDecoration.conflictingResourceForeground": "#ebcb8b",
+
+        "diffEditor.insertedTextBackground": "#88bcbb20",
+        "diffEditor.removedTextBackground": "#bf616a20",
+        "diffEditor.diagonalFill": "#2e3440",
+
+        "editorGutter.modifiedBackground": "#b48ead",
+        "editorGutter.addedBackground": "#88bcbb",
+        "editorGutter.deletedBackground": "#bf616a",
     },
     "tokenColors": [
         {
