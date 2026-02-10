@@ -169,5 +169,32 @@
                 "foreground": "#b48ead"
             }
         }
-    ]
+    ],
+    "semanticHighlighting": true,
+    "semanticTokenColors": {
+        "parameter": {
+            "foreground": "#d08770",
+            "fontStyle": "italic"
+        },
+
+        "variable.readonly": {
+            "foreground": "#b48ead"
+        },
+        "variable.constant": {
+            "foreground": "#b48ead"
+        },
+        "interface": {
+            "foreground": "#a3be8c",
+            "fontStyle": "italic"
+        },
+
+        "typeParameter": {
+            "foreground": "#bf616a",
+            "fontStyle": "bold"
+        },
+        "function": "#d8dee9",
+        "method": "#d8dee9",
+        "property": "#b48ead",
+        "property.readonly": "#b48ead"
+    }
 }
