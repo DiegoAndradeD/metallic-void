@@ -23,8 +23,8 @@
         "list.activeSelectionBackground": "#1a1a1a",
         "list.activeSelectionForeground": "#bf616a",
         "list.hoverBackground": "#161616",
-        "scrollbarSlider.background": "#2a2a2a",
-        "scrollbarSlider.hoverBackground": "#3a3a3a",
+        // "scrollbarSlider.background": "#2a2a2a",
+        // "scrollbarSlider.hoverBackground": "#3a3a3a",
         "selection.background": "#3e445240",
         "editorLineNumber.foreground": "#353535",
         "editorLineNumber.activeForeground": "#707070",
@@ -51,7 +51,26 @@
         "terminal.ansiBrightBlue": "#5e81ac",
         "terminal.ansiBrightMagenta": "#b48ead",
         "terminal.ansiBrightCyan": "#8fbcbb",
-        "terminal.ansiBrightWhite": "#eceff4"
+        "terminal.ansiBrightWhite": "#eceff4",
+
+        "widget.shadow": "#00000000",
+        "scrollbar.shadow": "#00000000",
+
+        "editorWidget.background": "#0f0f0f",
+        "editorWidget.border": "#bf616a",
+        "editorSuggestWidget.background": "#141414",
+        "editorSuggestWidget.border": "#4c566a",
+        "editorSuggestWidget.selectedBackground": "#bf616a20",
+
+        "panel.border": "#0f0f0f",
+        "sideBarSectionHeader.border": "#0f0f0f",
+        "editorGroup.border": "#4c566a",
+        "tab.activeBorderTop": "#bf616a",
+        "tab.unfocusedActiveBorderTop": "#4c566a",
+
+        "scrollbarSlider.background": "#bf616a20",
+        "scrollbarSlider.hoverBackground": "#bf616a80",
+        "scrollbarSlider.activeBackground": "#bf616a"
     },
     "tokenColors": [
         {
