@@ -188,8 +188,11 @@
             "foreground": "#d08770",
             "fontStyle": "italic"
         },
+        "variable": {
+             "foreground": "#889fa1"
+        },
         "variable.readonly": {
-            "foreground": "#b48ead"
+            "foreground": "#889fa1"
         },
         "variable.constant": {
             "foreground": "#b48ead"
